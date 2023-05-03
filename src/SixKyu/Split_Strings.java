@@ -1,4 +1,4 @@
-package SevenKyu;
+package SixKyu;
 
 import java.util.Arrays;
 
